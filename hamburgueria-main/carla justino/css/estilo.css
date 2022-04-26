@@ -1,0 +1,118 @@
+
+body{
+  background-color: #ebebeb;
+}
+
+.container{
+  width: 960px;
+  margin: auto;
+}
+
+.topo{
+  display: flex;
+  justify-content: space-between;
+  background-color: #382119;
+  height: 80px;
+}
+
+
+.logo{
+  height: 70px;
+  margin: 5px;
+}
+
+.item{
+  color: white;
+  margin-right: 80px;
+  font-size: 24px;
+  text-decoration: none;
+  line-height: 80px;
+}
+
+.header_im{
+  
+  width: 960px;
+  height: 600px;
+  overflow: hidden; 
+}
+.header_im img{
+  height: 100%;
+}
+
+
+.nossos_lanches{
+  
+  padding: 90px;
+  background-color: #382119;
+
+}
+.nossos_lanches2{
+  display: flex;
+
+}
+
+h2{
+  font-family: 'Pacifico', cursive;
+}
+
+.lanches img{
+  border-radius: 50%;
+  width: 140px;
+}
+
+.apresentacao{
+  padding: 90px;
+  background-color: white;
+}
+
+.apresentacao{
+
+  display:flex;
+}
+
+
+.apresentacao img{
+  border-radius: 50%;
+  margin-right: 50px;
+}
+
+
+.lanches{
+  background-color: #ffffff;
+  width: 140px;
+  padding: 10px;
+  margin-right:20px;
+  border-radius: 5px;
+  
+}
+
+.visitar{
+  background-color: #d3c39d;
+}
+
+.visitar_txt{
+  margin-right: 80px;
+}
+
+.v{
+  font-style: italic;
+}
+.visi{
+  display: flex;
+  padding: 40px;
+  height: 40px;
+}
+
+
+
+
+.rodape{
+  background-color: #382119;
+  padding: 30px;
+  color: white;
+  text-align:center;
+}
+
+.tit_lanche{
+  color: white;
+}
