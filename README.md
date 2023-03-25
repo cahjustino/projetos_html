@@ -1,2 +1,2 @@
 # projetos_html
-projetos html_css
+Esta pasta contem projetos em html css,feitos  na faculdade e  cursos udemy/alura
